@@ -9,3 +9,8 @@ MessagePackのhexを可読可能な形に置き換える
 ```shell-script
  $ mitmdump -s messagepack2hex.py
 ```
+
+サンプルで配信サーバーもくっついてます
+
+### msgpack-microscope を使ってサンプルサーバーのデータをパースしている場合
+![](screenshots/sample.png)
